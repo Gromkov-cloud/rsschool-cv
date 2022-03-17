@@ -1,6 +1,6 @@
 # Vasiliy Gromkov
 
-# My cotacts
+# My contacts
 * Telegram: [v_gromkov](https://t.me/v_gromkov "Описание")
 * Email: v.gromkov2014@yandex.ru
 * Discord nickname: Vasiliy (@Gromkov-cloud)
