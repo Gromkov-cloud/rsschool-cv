@@ -43,3 +43,14 @@ function dirReduc (arr) {
     return arr
 }
 ```
+
+# Work experience
+I made some simple projects in html and css (*links will be here*), tried to repeat the functionality of excel on javascript (*links will be here*), set up webpack, worked with git and github
+
+# Education
+1. HTML&CSS - YouTube and various Internet resources
+2. Js - Vladilen Minin's YouTube channel, learn.javascript.ru
+
+# Language
+1. ru - native
+2. en - beginner
