@@ -1,1 +1,0 @@
- https://Gromkov-cloud.github.io/rsschool-cv/cv.md
